@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 -->
 
 [linkedin-url]: https://linkedin.com/in/ricardo1pran
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
