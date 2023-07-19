@@ -19,7 +19,7 @@ Sometimes, programming is also about hobby. Other hobbies besides programming wo
 
 Due to privacy reasons (because I work in a bank!) I can't post the projects in my Github, but I work in projects that were built with these technologies:
 
-- [![JavaSB]][JavaSB-url]
+- [![JavaSpringBoot][JavaSB]][JavaSB-url]
 - .NET 5 API
 - Angular
 - React
@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[JavaSB]: https://img.shields.io/badge/-Java%20Spring%20Boot?style=for-the-badge&logo=spring-boot&logoColor=6DB33F
+[JavaSB]: https://img.shields.io/badge/-Java%20Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
 [JavaSB-url]: https://spring.io/projects/spring-boot
