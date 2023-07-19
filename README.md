@@ -19,7 +19,7 @@ Sometimes, programming is also about hobby. Other hobbies besides programming wo
 
 Due to privacy reasons (because I work in a bank!) I can't post the projects in my Github, but I work in projects that were built with these technologies:
 
-- [![Java Spring Boot][JavaSB]][JavaSBurl]
+- [![JavaSB]][JavaSB-url]
 - .NET 5 API
 - Angular
 - React
