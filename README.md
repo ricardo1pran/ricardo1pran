@@ -1,4 +1,11 @@
 ### Hi there 👋
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<br/>
+
+<div align="center">
+    <h1>Ricardo Gunawan's Github</h1>
+</div>
 
 <!--
 **ricardo1pran/ricardo1pran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin-url]: https://linkedin.com/in/ricardo1pran
