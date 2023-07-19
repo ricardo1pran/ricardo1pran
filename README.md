@@ -32,7 +32,7 @@ Some of my repositories here were made as a hobby. Most of my hobbies are buildi
 
 - [![Universal Windows App][Windows10]][Windows10-url]
 - [![NextJS][Next.js]][Next-url]
-- ![dotNetFW][NETFW]][NET5-url]
+- [![dotNetFW][NETFW]][NET5-url]
 - [![HTML5][HTML]][HTML-url]
 - [![JavaSpringBoot][JavaSB]][JavaSB-url]
 
